@@ -5,6 +5,12 @@
 <br>
 
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=11QTlwFN4ok8xsmznq2vJ7Dy5c-560bg3" alt="Centered Image">
+</p>
+
+
+
 <br>
 
 <h1 align="center">TESLACORE</h1>
